@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/face-detection-segmentation.git
+git clone
 cd face-detection-segmentation
 Install Dependencies:
 
